@@ -1,0 +1,11 @@
+{
+  "name": "sylus-code/multisport-mysports-wrapper",
+  "description": "tomtom mysports api wrapper",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "SylusCode\\MultiSport\\MysportsWrapper\\": "src/"
+    }
+  }
+}
