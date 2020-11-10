@@ -7,5 +7,9 @@
     "psr-4": {
       "SylusCode\\MultiSport\\MysportsWrapper\\": "src/"
     }
+  },
+  "require": {
+    "sylus-code/multisport-workout": "^1.0.2",
+    "guzzlehttp/guzzle": "^7.2"
   }
 }
